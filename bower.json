@@ -1,0 +1,22 @@
+{
+  "name": "template-view",
+  "description": "",
+  "main": "",
+  "authors": [
+    "haianhdt98 <phamhaianhdt98@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/anhphamdt98/php_news_nt18",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "bower-package": "https://github.com/anhphamdt98/bower-package.git"
+  }
+}
